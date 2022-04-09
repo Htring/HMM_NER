@@ -2,7 +2,7 @@
 本程序数据来源于：[https://github.com/luopeixiang/named_entity_recognition](https://github.com/luopeixiang/named_entity_recognition).
 为了能够使用seqeval工具评估模型效果，将原始数据中“M-”开头的标签处理为“I-”.
 
-程序设计介绍可参考我的博文：
+程序设计介绍可参考我的博文：[【NLP】基于隐马尔可夫模型（HMM）的命名实体识别（NER）实现](https://piqiandong.blog.csdn.net/article/details/124065834)
 
 ## 模型训练和模型使用
 在trainer.py文件中实现了基于HMM的模型训练，以及模型使用：
