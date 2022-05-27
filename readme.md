@@ -52,3 +52,11 @@ weighted avg       0.82      0.85      0.83      1630
 ```
 整体效果比较可观。需要说明的是，[https://github.com/luopeixiang/named_entity_recognition](https://github.com/luopeixiang/named_entity_recognition)中使用的评估方式与本程序不同，不具有可比性。
 本程序以整个实体为单位进行评估。
+
+## 联系我
+
+1. 我的github：[https://github.com/Htring](https://github.com/Htring)
+2. 我的csdn：[科皮子菊](https://piqiandong.blog.csdn.net/)
+3. 我订阅号：AIAS编程有道
+   ![AIAS编程有道](https://s2.loli.net/2022/05/05/DS37LjhBQz2xyUJ.png)
+4. 知乎：[皮乾东](https://www.zhihu.com/people/piqiandong)
